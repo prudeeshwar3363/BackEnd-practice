@@ -31,7 +31,7 @@ This repository documents my **60-day journey** to becoming a placement-ready Ba
 
 | Day | Topic | Status | Confidence |
 |-----|--------|--------|------------|
-| 1 | OOP Basics | ✅ | 8/10 |
+| 1 | OOP Basics | ✅ | 10/10 |
 | 2 | Inheritance | ⬜ | - |
 | 3 | Encapsulation | ⬜ | - |
 | 4 | Exception Handling | ⬜ | - |
