@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-Backend-blue?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-Framework-green?style=for-the-badge&logo=django)
 ![SQL](https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge&logo=mysql)
-![Progress](https://img.shields.io/badge/Progress-1%25-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-10%25-red?style=for-the-badge)
 
 ---
 
