@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-Backend-blue?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-Framework-green?style=for-the-badge&logo=django)
 ![SQL](https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge&logo=mysql)
-![Progress](https://img.shields.io/badge/Progress-1%25-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-3%25-red?style=for-the-badge)
 
 ---
 
@@ -32,7 +32,7 @@ This repository documents my **60-day journey** to becoming a placement-ready Ba
 | Day | Topic | Status | Confidence |
 |-----|--------|--------|------------|
 | 1 | OOP Basics | ✅ | 10/10 |
-| 2 | Inheritance | ⬜ | - |
+| 2 | Inheritance | ✅ | 10/10 |
 | 3 | Encapsulation | ⬜ | - |
 | 4 | Exception Handling | ⬜ | - |
 | 5 | File Handling | ⬜ | - |
@@ -92,15 +92,18 @@ Status: ⬜ Not Started
 ### Day 1
 > Learned OOP fundamentals. Understood how classes work. Need more practice on validation logic.
 
+### Day 2
+> Implemented inheritance and polymorphism. Built Bank system and Employee management system using parent-child classes. Gained clarity on method overriding and super(). Need to practice more complex hierarchies.
+
 (Add one paragraph daily below this section.)
 
 ---
 
 # 🏁 Current Progress
 
-**Day Completed:** 1 / 60  
-**Consistency Streak:** 1 Day  
-**Overall Confidence:** 8/10  
+**Day Completed:** 2 / 60  
+**Consistency Streak:** 2 Day  
+**Overall Confidence:** 10/10  
 
 ---
 
