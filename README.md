@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-Backend-blue?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-Framework-green?style=for-the-badge&logo=django)
 ![SQL](https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge&logo=mysql)
-![Progress](https://img.shields.io/badge/Progress-3%25-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-5%25-red?style=for-the-badge)
 
 ---
 
@@ -33,7 +33,7 @@ This repository documents my **60-day journey** to becoming a placement-ready Ba
 |-----|--------|--------|------------|
 | 1 | OOP Basics | ✅ | 10/10 |
 | 2 | Inheritance | ✅ | 10/10 |
-| 3 | Encapsulation | ⬜ | - |
+| 3 | Encapsulation | ✅ | 10/10 |
 | 4 | Exception Handling | ⬜ | - |
 | 5 | File Handling | ⬜ | - |
 | 6 | Virtual Environment | ⬜ | - |
@@ -47,7 +47,7 @@ This repository documents my **60-day journey** to becoming a placement-ready Ba
 
 ## Python
 - [x] OOP
-- [ ] Inheritance
+- [x] Inheritance
 - [ ] Exception Handling
 - [ ] File Handling
 
@@ -95,14 +95,17 @@ Status: ⬜ Not Started
 ### Day 2
 > Implemented inheritance and polymorphism. Built Bank system and Employee management system using parent-child classes. Gained clarity on method overriding and super(). Need to practice more complex hierarchies.
 
+### Day 3
+> Learned secure coding practices using encapsulation and abstraction. Implemented private variables, getter/setter validation, and abstract payment systems. Started thinking in terms of backend security and scalable design.
+
 (Add one paragraph daily below this section.)
 
 ---
 
 # 🏁 Current Progress
 
-**Day Completed:** 2 / 60  
-**Consistency Streak:** 2 Day  
+**Day Completed:** 3 / 60  
+**Consistency Streak:** 3 Day  
 **Overall Confidence:** 10/10  
 
 ---
