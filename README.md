@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-Backend-blue?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-Framework-green?style=for-the-badge&logo=django)
 ![SQL](https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge&logo=mysql)
-![Progress](https://img.shields.io/badge/Progress-7%25-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-9%25-red?style=for-the-badge)
 
 ---
 
@@ -35,7 +35,7 @@ This repository documents my **60-day journey** to becoming a placement-ready Ba
 | 2 | Inheritance | ✅ | 10/10 |
 | 3 | Encapsulation | ✅ | 10/10 |
 | 4 | Exception Handling | ✅ |  9/10 |
-| 5 | File Handling | ⬜ | - |
+| 5 | File Handling | ✅ | 8/10 |
 | 6 | Virtual Environment | ⬜ | - |
 | 7 | Mini Project | ⬜ | - |
 
@@ -49,7 +49,7 @@ This repository documents my **60-day journey** to becoming a placement-ready Ba
 - [x] OOP
 - [x] Inheritance
 - [x] Exception Handling
-- [ ] File Handling
+- [x] File Handling
 
 ## SQL
 - [ ] CRUD
@@ -72,6 +72,7 @@ This repository documents my **60-day journey** to becoming a placement-ready Ba
 | Employee Management System | OOP | ✅ |
 | Secure Payment System | Abstraction | ✅ |
 | ATM System (Exception Handling) | Error-Control | ✅ |
+| JSON Student Record System | Data Persistence |	✅ |
 | Blog App | Django | ⬜ |
 | E-Commerce Backend | Major Project | ⬜ |
 
@@ -80,7 +81,7 @@ This repository documents my **60-day journey** to becoming a placement-ready Ba
 # 📈 Weekly Milestones
 
 ### Week 1 – Python Core
-Status: 🟡 In Progress
+Status: 🟢 Strong Progress
 
 ### Week 2 – SQL Mastery
 Status: ⬜ Not Started
@@ -104,15 +105,18 @@ Status: ⬜ Not Started
 ### Day 4
 > Practiced production-level error handling. Implemented try/except, custom exceptions, and built a fully protected ATM system. Improved system stability mindset.
 
+### Day 5
+> Implemented file handling and JSON-based persistence. Built DataManager class and understood backend data flow separation.
+
 (Add one paragraph daily below this section.)
 
 ---
 
 # 🏁 Current Progress
 
-**Day Completed:** 4 / 60  
-**Consistency Streak:** 4 Day  
-**Overall Confidence:** 9.5/10  
+**Day Completed:** 5 / 60  
+**Consistency Streak:** 5 Day  
+**Overall Confidence:** 9/10  
 
 ---
 
