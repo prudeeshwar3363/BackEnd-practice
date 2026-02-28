@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-Backend-blue?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-Framework-green?style=for-the-badge&logo=django)
 ![SQL](https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge&logo=mysql)
-![Progress](https://img.shields.io/badge/Progress-5%25-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-7%25-red?style=for-the-badge)
 
 ---
 
@@ -34,7 +34,7 @@ This repository documents my **60-day journey** to becoming a placement-ready Ba
 | 1 | OOP Basics | ✅ | 10/10 |
 | 2 | Inheritance | ✅ | 10/10 |
 | 3 | Encapsulation | ✅ | 10/10 |
-| 4 | Exception Handling | ⬜ | - |
+| 4 | Exception Handling | ✅ | 9/10 |
 | 5 | File Handling | ⬜ | - |
 | 6 | Virtual Environment | ⬜ | - |
 | 7 | Mini Project | ⬜ | - |
@@ -48,7 +48,7 @@ This repository documents my **60-day journey** to becoming a placement-ready Ba
 ## Python
 - [x] OOP
 - [x] Inheritance
-- [ ] Exception Handling
+- [x] Exception Handling
 - [ ] File Handling
 
 ## SQL
@@ -69,6 +69,9 @@ This repository documents my **60-day journey** to becoming a placement-ready Ba
 | Project | Type | Status |
 |----------|------|--------|
 | Student Result System | CLI | ✅ |
+| Employee Management System | OOP | ✅ |
+| Secure Payment System | Abstraction | ✅ |
+| ATM System (Exception Handling) | Error-Control | ✅ |
 | Blog App | Django | ⬜ |
 | E-Commerce Backend | Major Project | ⬜ |
 
@@ -98,15 +101,18 @@ Status: ⬜ Not Started
 ### Day 3
 > Learned secure coding practices using encapsulation and abstraction. Implemented private variables, getter/setter validation, and abstract payment systems. Started thinking in terms of backend security and scalable design.
 
+### Day 4
+> Practiced production-level error handling. Implemented try/except, custom exceptions, and built a fully protected ATM system. Improved system stability mindset.
+
 (Add one paragraph daily below this section.)
 
 ---
 
 # 🏁 Current Progress
 
-**Day Completed:** 3 / 60  
-**Consistency Streak:** 3 Day  
-**Overall Confidence:** 10/10  
+**Day Completed:** 4 / 60  
+**Consistency Streak:** 4 Day  
+**Overall Confidence:** 9.5/10  
 
 ---
 
