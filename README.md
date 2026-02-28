@@ -34,7 +34,7 @@ This repository documents my **60-day journey** to becoming a placement-ready Ba
 | 1 | OOP Basics | ✅ | 10/10 |
 | 2 | Inheritance | ✅ | 10/10 |
 | 3 | Encapsulation | ✅ | 10/10 |
-| 4 | Exception Handling | ✅ | 9/10 |
+| 4 | Exception Handling | ✅ |  9/10 |
 | 5 | File Handling | ⬜ | - |
 | 6 | Virtual Environment | ⬜ | - |
 | 7 | Mini Project | ⬜ | - |
