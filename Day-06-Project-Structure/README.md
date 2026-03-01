@@ -1,7 +1,7 @@
 # 📦 Day 6 – Virtual Environment & Backend Project Structuring
 
 ## 📅 Date
-(Enter today's date)
+01-03-2026
 
 ---
 
