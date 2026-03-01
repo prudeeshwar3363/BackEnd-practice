@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-Backend-blue?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-Framework-green?style=for-the-badge&logo=django)
 ![SQL](https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge&logo=mysql)
-![Progress](https://img.shields.io/badge/Progress-9%25-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-10%25-red?style=for-the-badge)
 
 ---
 
@@ -36,7 +36,7 @@ This repository documents my **60-day journey** to becoming a placement-ready Ba
 | 3 | Encapsulation | ✅ | 10/10 |
 | 4 | Exception Handling | ✅ |  9/10 |
 | 5 | File Handling | ✅ | 8/10 |
-| 6 | Virtual Environment | ⬜ | - |
+| 6 | Virtual Environment | ✅ | 8.5/10 |
 | 7 | Mini Project | ⬜ | - |
 
 (Continue updating daily up to Day 60)
@@ -73,6 +73,7 @@ This repository documents my **60-day journey** to becoming a placement-ready Ba
 | Secure Payment System | Abstraction | ✅ |
 | ATM System (Exception Handling) | Error-Control | ✅ |
 | JSON Student Record System | Data Persistence |	✅ |
+| Structured Backend Application | Layered Architecture |	✅ |
 | Blog App | Django | ⬜ |
 | E-Commerce Backend | Major Project | ⬜ |
 
@@ -81,7 +82,7 @@ This repository documents my **60-day journey** to becoming a placement-ready Ba
 # 📈 Weekly Milestones
 
 ### Week 1 – Python Core
-Status: 🟢 Strong Progress
+Status: 🟢 Strong Foundation Built
 
 ### Week 2 – SQL Mastery
 Status: ⬜ Not Started
@@ -108,14 +109,17 @@ Status: ⬜ Not Started
 ### Day 5
 > Implemented file handling and JSON-based persistence. Built DataManager class and understood backend data flow separation.
 
+### Day 6
+> Structured project professionally, implemented virtual environment, separated service and data layers, and strengthened backend architecture thinking.
+
 (Add one paragraph daily below this section.)
 
 ---
 
 # 🏁 Current Progress
 
-**Day Completed:** 5 / 60  
-**Consistency Streak:** 5 Day  
+**Day Completed:** 6 / 60  
+**Consistency Streak:** 6 Day  
 **Overall Confidence:** 9/10  
 
 ---
