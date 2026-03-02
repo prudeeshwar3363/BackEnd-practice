@@ -1,7 +1,7 @@
 # 🚀 Day 7 – Structured Student Backend Mini Project
 
 ## 📅 Date
-02-03-2026
+> 02-03-2026
 ---
 
 # 🎯 Objective of Day 7
