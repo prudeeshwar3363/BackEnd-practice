@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-Backend-blue?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-Framework-green?style=for-the-badge&logo=django)
 ![SQL](https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge&logo=mysql)
-![Progress](https://img.shields.io/badge/Progress-10%25-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-12%25-red?style=for-the-badge)
 
 ---
 
@@ -37,7 +37,7 @@ This repository documents my **60-day journey** to becoming a placement-ready Ba
 | 4 | Exception Handling | ✅ |  9/10 |
 | 5 | File Handling | ✅ | 8/10 |
 | 6 | Virtual Environment | ✅ | 8.5/10 |
-| 7 | Mini Project | ⬜ | - |
+| 7 | Mini Project - Structured Student Backend | ✅ | 10/10 |
 
 (Continue updating daily up to Day 60)
 
@@ -74,6 +74,7 @@ This repository documents my **60-day journey** to becoming a placement-ready Ba
 | ATM System (Exception Handling) | Error-Control | ✅ |
 | JSON Student Record System | Data Persistence |	✅ |
 | Structured Backend Application | Layered Architecture |	✅ |
+| Structured Student Backend	| Full Mini Backend |	✅ |
 | Blog App | Django | ⬜ |
 | E-Commerce Backend | Major Project | ⬜ |
 
@@ -81,14 +82,14 @@ This repository documents my **60-day journey** to becoming a placement-ready Ba
 
 # 📈 Weekly Milestones
 
-### Week 1 – Python Core
-Status: 🟢 Strong Foundation Built
+## ✅ Week 1 – Python Core
+Strong Foundation Built in architecture, validation, exceptions, and data persistence.
 
-### Week 2 – SQL Mastery
-Status: ⬜ Not Started
+## 🔜 Week 2 – SQL Mastery
+Status: Not Started
 
-### Week 3 – Django Core
-Status: ⬜ Not Started
+## ⬜ Week 3 – Django Core
+Status: Not Started
 
 ---
 
@@ -112,14 +113,17 @@ Status: ⬜ Not Started
 ### Day 6
 > Structured project professionally, implemented virtual environment, separated service and data layers, and strengthened backend architecture thinking.
 
+### Day 7
+> Built a fully structured backend mini project with layered architecture, validation rules, and custom exception handling. Demonstrated clean separation of concerns and production-style backend thinking.
+
 (Add one paragraph daily below this section.)
 
 ---
 
 # 🏁 Current Progress
 
-**Day Completed:** 6 / 60  
-**Consistency Streak:** 6 Day  
+**Day Completed:** 7 / 60  
+**Consistency Streak:** 7 Days  
 **Overall Confidence:** 9/10  
 
 ---
