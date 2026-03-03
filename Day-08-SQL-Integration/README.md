@@ -1,8 +1,7 @@
 # 🗄 Day 8 – SQL Integration & Database Thinking
 
 ## 📅 Date
-(Enter today's date)
-
+> 03-03-2026
 ---
 
 # 🎯 Objective of Day 8
