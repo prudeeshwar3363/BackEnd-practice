@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-Backend-blue?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-Framework-green?style=for-the-badge&logo=django)
 ![SQL](https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge&logo=mysql)
-![Progress](https://img.shields.io/badge/Progress-12%25-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-14%25-red?style=for-the-badge)
 
 ---
 
@@ -38,6 +38,7 @@ This repository documents my **60-day journey** to becoming a placement-ready Ba
 | 5 | File Handling | ✅ | 8/10 |
 | 6 | Virtual Environment | ✅ | 8.5/10 |
 | 7 | Mini Project - Structured Student Backend | ✅ | 10/10 |
+| 8	| SQL Integration & Database	| ✅	| 9/10 |
 
 (Continue updating daily up to Day 60)
 
@@ -52,7 +53,7 @@ This repository documents my **60-day journey** to becoming a placement-ready Ba
 - [x] File Handling
 
 ## SQL
-- [ ] CRUD
+- [x] CRUD
 - [ ] JOINS
 - [ ] Indexing
 
@@ -75,6 +76,7 @@ This repository documents my **60-day journey** to becoming a placement-ready Ba
 | JSON Student Record System | Data Persistence |	✅ |
 | Structured Backend Application | Layered Architecture |	✅ |
 | Structured Student Backend	| Full Mini Backend |	✅ |
+| SQL-Based Student Backend	| Database Integration	| ✅ |
 | Blog App | Django | ⬜ |
 | E-Commerce Backend | Major Project | ⬜ |
 
@@ -85,8 +87,8 @@ This repository documents my **60-day journey** to becoming a placement-ready Ba
 ## ✅ Week 1 – Python Core
 Strong Foundation Built in architecture, validation, exceptions, and data persistence.
 
-## 🔜 Week 2 – SQL Mastery
-Status: Not Started
+## 🟢 Week 2 – SQL Mastery
+Status: Successfully migrated from JSON storage to relational database using SQLite.
 
 ## ⬜ Week 3 – Django Core
 Status: Not Started
@@ -116,15 +118,18 @@ Status: Not Started
 ### Day 7
 > Built a fully structured backend mini project with layered architecture, validation rules, and custom exception handling. Demonstrated clean separation of concerns and production-style backend thinking.
 
+### Day 8
+> Migrated storage to SQLite database, implemented SQL CRUD operations, constraints, and parameterized queries.
+
 (Add one paragraph daily below this section.)
 
 ---
 
 # 🏁 Current Progress
 
-**Day Completed:** 7 / 60  
-**Consistency Streak:** 7 Days  
-**Overall Confidence:** 9/10  
+**Day Completed:** 8 / 60  
+**Consistency Streak:** 8 Days  
+**Overall Confidence:** 9.5/10  
 
 ---
 
